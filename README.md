@@ -1,2 +1,2 @@
 # cplusplus-workout
-C++ exercises to warm up my brain
+C++ exercises to make a problem and warm up my brain 
